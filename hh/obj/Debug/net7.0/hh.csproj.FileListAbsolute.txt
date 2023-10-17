@@ -1,0 +1,15 @@
+/Users/levonbabaan/Projects/hh/hh/obj/Debug/net7.0/hh.csproj.AssemblyReference.cache
+/Users/levonbabaan/Projects/hh/hh/obj/Debug/net7.0/hh.GeneratedMSBuildEditorConfig.editorconfig
+/Users/levonbabaan/Projects/hh/hh/obj/Debug/net7.0/hh.AssemblyInfoInputs.cache
+/Users/levonbabaan/Projects/hh/hh/obj/Debug/net7.0/hh.AssemblyInfo.cs
+/Users/levonbabaan/Projects/hh/hh/obj/Debug/net7.0/hh.csproj.CoreCompileInputs.cache
+/Users/levonbabaan/Projects/hh/hh/bin/Debug/net7.0/hh
+/Users/levonbabaan/Projects/hh/hh/bin/Debug/net7.0/hh.deps.json
+/Users/levonbabaan/Projects/hh/hh/bin/Debug/net7.0/hh.runtimeconfig.json
+/Users/levonbabaan/Projects/hh/hh/bin/Debug/net7.0/hh.dll
+/Users/levonbabaan/Projects/hh/hh/bin/Debug/net7.0/hh.pdb
+/Users/levonbabaan/Projects/hh/hh/obj/Debug/net7.0/hh.dll
+/Users/levonbabaan/Projects/hh/hh/obj/Debug/net7.0/refint/hh.dll
+/Users/levonbabaan/Projects/hh/hh/obj/Debug/net7.0/hh.pdb
+/Users/levonbabaan/Projects/hh/hh/obj/Debug/net7.0/hh.genruntimeconfig.cache
+/Users/levonbabaan/Projects/hh/hh/obj/Debug/net7.0/ref/hh.dll
